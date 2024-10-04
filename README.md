@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mani-x-sh
+- 👋 Hi, I’m @Manish Raj
 - 👀 I’m interested in Web development and cyber security 
 - 🌱 I’m currently learning app development and cyber security 
 - 💞️ I’m looking to collaborate on ...
