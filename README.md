@@ -1,4 +1,4 @@
-<h1>About Me</h1>
+<h1>About Me 💲</h1>
 
 - 👋 Hi, I’m @Manish Raj
 - 👀 I’m interested in Web development and cyber security 
@@ -12,7 +12,7 @@
 Mani-x-sh/Mani-x-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>TECH </h1>
+<h1>TECH 💻</h1>
 
 ![React](https://img.shields.io/badge/React-212121.svg?style=for-the-badge&logo=React&logoColor=006eff&textColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=JavaScript&logoColor=#ffea00&textColor=white)
