@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h1>TECH 💻</h1>
 
 ![React](https://img.shields.io/badge/React-212121.svg?style=for-the-badge&logo=React&logoColor=006eff&textColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-212121.svg?style=for-the-badge&logo=Tailwind&logoColor=006eff&textColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=JavaScript&logoColor=#ffea00&textColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
