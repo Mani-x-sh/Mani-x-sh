@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <h1> Github Stats</h1>
-[![Avnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=avn1sh&custom_title=Overview&show_icons=true&theme=dark#gh-dark-mode-only&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 
 [![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avn1sh&show_icons=true&theme=dark#gh-dark-mode-only&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
